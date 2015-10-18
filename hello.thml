@@ -1,0 +1,17 @@
+<!--新的 bootstrap 核心CSS文件 -->
+<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<!-- jQuery 文件 -->
+<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+<!-- 最新的bootstrap 核心javascript 文件-->
+<script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title> test </title>
+</head>
+<body>
+<h1> 你好，世界</h1>
+</body>
+</html>
